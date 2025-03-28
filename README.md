@@ -36,5 +36,5 @@ name=ndysw （github 用户名）
 8、输入：git push -u TopTime master   回车，等待文件上传
 9、去github仓库查看上传文件
 
-
+(备注：步骤8 将文件上传到master分支，默认分支为main，readme文档也在main分支，初次上传，小失误)
 
