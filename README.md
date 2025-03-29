@@ -38,3 +38,4 @@ name=ndysw （github 用户名）
 
 (备注：步骤8 将文件上传到master分支，默认分支为main，readme文档也在main分支，初次上传，小失误)
 
+20250329:windows7可能提示缺少相关dll文件，可能提示缺少相关python组件，待修复
